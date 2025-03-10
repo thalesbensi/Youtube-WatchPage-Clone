@@ -1,0 +1,11 @@
+main aside {
+    width: 160px;
+    height: 938px;
+    position: relative;
+    bottom: 800px;
+    left: 1200px;
+}
+
+aside ul li{
+    padding-bottom:14px ;
+}
